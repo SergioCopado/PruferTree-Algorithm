@@ -14,3 +14,18 @@ The project is organized into three main modules:
 1. main.py: Contains the primary logic, allowing users to interact with functions to convert between trees and Prüfer codes, as well as to create trees and handle input.
 2. Tree.py: Defines a Tree class for tree representation, with methods to add children, traverse, and perform various tree operations.
 3. Heap.py: Defines a Heap class to implement a min-heap, which is necessary for efficiently managing leaf nodes in the tree-to-Prüfer code conversion algorithm.
+
+## Running the Program
+1. **Clone the repository and navigate to the project folder:**
+    ```bash
+   git clone <repository URL>
+    cd <project folder>
+   ```
+2. **Run main.py:**
+    ```bash
+   python main.py
+   ```
+3. **Program Options:**
+   1. Generate the Prüfer code for a labeled tree provided by the user.
+   2. Generate a tree from a Prüfer code provided by the user.
+   3. Exit the program.
