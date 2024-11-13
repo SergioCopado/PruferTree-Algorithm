@@ -4,9 +4,9 @@ This project implements a set of Python functions to work with Prüfer codes, a 
 ## Features
 The project includes:
 
-Tree to Prüfer Code Conversion: Given a tree, it generates the Prüfer code sequence representing its structure.
-Prüfer Code to Tree Conversion: Constructs the corresponding tree from a Prüfer code sequence.
-Auxiliary Tree and Heap Functions: Includes classes for representing trees and heaps, facilitating node management and efficient data handling.
+* **Tree to Prüfer Code Conversion:** Given a tree, it generates the Prüfer code sequence representing its structure.
+* **Prüfer Code to Tree Conversion:** Constructs the corresponding tree from a Prüfer code sequence.
+* **Auxiliary Tree and Heap Functions:** Includes classes for representing trees and heaps, facilitating node management and efficient data handling.
 
 ## Project Structure
 The project is organized into three main modules:
